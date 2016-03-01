@@ -1,0 +1,225 @@
+body {background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/eb/NBA_Game.jpg");}
+/*
+	By photo taken by flickr user ReneS (flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+	
+	
+	https://commons.wikimedia.org/wiki/File%3ACeltics_Pierce_Rolling_Rally.jpg
+	By Paul Keleher [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+	
+	https://commons.wikimedia.org/wiki/File%3ANBA_Trophy2.png
+	By NBA_Trophy.png: *NBA_Trophy.jpg: inboundpass from Manila, Philippines derivative work: JoeJohnson2 (talk) derivative work: JoeJohnson2 (NBA_Trophy.png) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#davis { background-image: url("../images/AnthonyDavis.JPG"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#davis h1{color:#AAAAAA;}
+/*
+	By TonyTheTiger (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+*/
+
+#westbrook{ background-image: url("../images/RussellWestbrook.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#westbrook h1{color:#AAAAAA;}
+
+/*
+	By Keith Allison from Owings Mills, USA (Russell Westbrook) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+*/
+
+#lebron{ background-image: url("../images/LebronJames.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#lebron h1{color:#AAAAAA;}
+/*
+	By Keith Allison from Baltimore, USA (LeBron James) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+*/
+
+#durant{ background-image: url("../images/KevinDurant.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#durant h1{color:#AAAAAA;}
+/*
+	By Keith Allison from Owings Mills, USA (Kevin Durant) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+*/
+
+#curry{ background-image: url("../images/StephCurry.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#curry h1{color:#AAAAAA;}
+
+/*
+	By Keith Allison from Hanover, MD, USA (Stephen Curry) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+*/
+
+#barkley{ background-image: url("../images/CharlesBarkley.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#barkley h1{color:#AAAAAA;}
+/*
+	By Copyright held by Steve Lipofsky Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+*/
+
+
+#thomas{ background-image: url("../images/IsiahThomas.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#thomas h1{color:#AAAAAA;}
+/*
+	By Jason_Kidd_squats,_coaches_in_background.jpg: bmendez68 derivative work: Lpdrew (Jason_Kidd_squats,_coaches_in_background.jpg) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#karlMalone{ background-image: url("../images/KarlMalone.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#karlMalone h1{color:#AAAAAA;}
+/*
+	By Copyright by Steve Lipofsky Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+*/
+
+#havlicek{ background-image: url("../images/JohnHavlicek.jpeg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#havlicek h1{color:#AAAAAA;}
+/*
+	See page for author [Public domain], via Wikimedia Commons
+*/
+
+#erving{ background-image: url("../images/JuliusErving.jpeg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#erving h1{color:#AAAAAA;}
+/*
+	See page for author [Public domain], via Wikimedia Commons
+*/
+
+#mosesMalone{ background-image: url("../images/MosesMalone.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#mosesMalone h1{color:#AAAAAA;}
+/*
+	By Basketball_Legends.jpg: Cpl. Lameen Witter derivative work: JoeJohnson2 (Basketball_Legends.jpg) [Public domain], via Wikimedia Commons
+*/
+
+
+#pettit{ background-image: url("../images/BobPettit.jpeg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#pettit h1{color:#AAAAAA;}
+/*
+	See page for author [Public domain], via Wikimedia Commons
+*/
+
+#hakeem{ background-image: url("../images/HakeemOlajuwon.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#hakeem h1{color:#AAAAAA;}
+/*
+	By University of Houston Digital Library (http://digital.lib.uh.edu/u?/p15195coll6,182) [Public domain], via Wikimedia Commons
+*/
+
+#baylor{ background-image: url("../images/ElginBaylor.jpeg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#baylor h1{color:#AAAAAA;}
+/*
+	See page for author [Public domain], via Wikimedia Commons
+*/
+
+#west{ background-image: url("../images/JerryWest.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#west h1{color:#AAAAAA;}
+/*
+	By prayitno (Flickr: Jerry West (NBA Logo)) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#kobe{ background-image: url("../images/KobeBryant.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#kobe h1{color:#AAAAAA;}
+/*
+	By pic.chick14 [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#bird{ background-image: url("../images/LarryBird.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#bird h1{color:#AAAAAA;}
+/*
+	By Steven Carter from Northern New England, USA (Larry) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+*/
+
+#duncan{ background-image: url("../images/TimDuncan.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#duncan h1{color:#AAAAAA;}
+/*
+	By Dave Hogg [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#kareem{ background-image: url("../images/KareemAbdulJabbar.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#kareem h1{color:#AAAAAA;}
+/*
+	By copyright Steve lipofsky www.Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+*/
+
+#magic{ background-image: url("../images/MagicJohnson.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#magic h1{color:#AAAAAA;}
+/*
+	By Steve Lipofsky www.Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+*/
+
+#oscar{ background-image: url("../images/OscarRobertson.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#oscar h1{color:#AAAAAA;}
+/*
+	By Steven Shundich (Flickr: The Big O) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#shaq{ background-image: url("../images/ShaquilleOneal.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#shaq h1{color:#AAAAAA;}
+/*
+	By thepipe26 [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+*/
+
+#russell{ background-image: url("../images/BillRussell.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#russell h1{color:#AAAAAA;}
+/*
+	By The White House's photostream [Public domain], via Wikimedia Commons
+*/
+
+#wilt{ background-image: url("../images/WiltChamberlain.jpg"); border:white solid 2px; width:80%; margin-left:7%; margin-top:100px;}
+#wilt h1{color:#AAAAAA;}
+/*
+	By Fred Palumbo, World Telegram staff photographer [Public domain], via Wikimedia Commons
+*/
+
+#jordan{ background-image: url("../images/MichaelJordan.JPG"); border:white solid 2px; width:80%; margin-left:7%; margin-top:45px;}
+#jordan h1{color:#AAAAAA;}
+/*
+	By Danielmustain (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
+*/
+
+
+/*
+	StepChart styling
+*/
+#averagesWithGamesPlayed{width: 900px; height: 500px; float:left; margin-bottom:50px;}
+#averagesWithoutGamesPlayed{width: 900px; height: 500px; float:left; margin-bottom:50px;}
+#averagesComparedToBaselineChart{width: 900px; height: 500px; float:left; margin-bottom:50px;}
+
+/*
+	PieChart styling
+*/
+.piechart_3d {float:left; width: 500px; height: 200px;}
+
+/*
+	Div block styling
+*/
+.block {float:left;}
+
+
+/*
+	Div space styling
+*/
+#space {margin-bottom:50px;}
+
+
+/*
+	Div intro styling
+*/
+.legends{margin-left:25%; padding-top:50px; padding-bottom:50px; float:none;}
+#stepCharts {background-color:#292929; width:900px; margin-left:15%;}
+#intro {width:825px; height:700px; background-color:#292929; float:left; margin-bottom:50px; color:#AAAAAA;}
+
+#intro h1 {margin-left:20%; padding-right:10px; color:#FFD700;}
+#intro p {margin-left:5%; padding-right:10px; color:#AAAAAA;}
+
+
+/*
+	Div followUp styling
+*/
+#followUp {width:900px; height:75px; background-color:#292929; float:left;color:#AAAAAA;}
+#followUp p {margin-left:2%;}
+.followUp {width:900px; height:130px; background-color:#292929; float:left;color:#AAAAAA;}
+.followUp p {margin-left:2%;}
+
+
+/*
+	Div leadup styling
+*/
+#leadUp {margin-left:7%; width:80%; height:375px; background-color:#292929; float:left;color:#AAAAAA; margin-top:50px;}
+#leadUp p {margin-left:5%;}
+/*
+	Div end styling
+*/
+#end {margin-left:7%; width:80%; height:125px; background-color:#292929; float:left;color:#AAAAAA; margin-top:50px;}
+#end p {margin-left:1%;}
+/*
+	section styling
+*/
+section {float: left;}
